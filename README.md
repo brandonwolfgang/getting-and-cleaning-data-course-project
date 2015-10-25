@@ -12,7 +12,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ## How to run the analysis
 
-Run ```source("run_analysis.R")```. It will download the zipped data file to a temporary directory and unzip that file 
+Run ```source('run_analysis.R')```. It will download the zipped data file to a temporary directory and unzip that file 
 to your working directory, creating a folder called ```UCI HAR Dataset``` which contains all data used by the program.
 It will then use that data to generate a new file ```tidy_data.txt``` in your working directory.
 
